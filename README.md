@@ -3,7 +3,7 @@
 De CRM PowerApp is een herbruikbare low-code oplossing voor het beheren van gemeentelijke contacten, relaties en communicatie. De app is ontwikkeld om versnipperde contactgegevens binnen gemeenten te centraliseren en biedt gebruikersvriendelijke functies voor relatiebeheer, communicatiehistorie en opvolging van acties. Dit project is ontwikkeld door ITRLBS in opdracht van  gemeente Gooise Meren, en is beschikbaar gesteld voor hergebruik door andere overheden.
 
 ## Informatie Algemeen
-De App is ontwikkeld door ITRBLS in opdracht van gemeente Gooise Meren, voor meer informatie neem contact op met [Mark Mulder - Informatiemanager Gooise Meren] (https://www.linkedin.com/in/mark-mulder/)
+De App is ontwikkeld door ITRBLS in opdracht van gemeente Gooise Meren, voor meer informatie neem contact op met [Mark Mulder - Informatiemanager Gooise Meren](https://www.linkedin.com/in/mark-mulder/)
 
 ## 🎯 Doel van de app
 
